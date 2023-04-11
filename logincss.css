@@ -1,21 +1,67 @@
-body{
-    background-color: black;
+body {
     background-image: url(images/login\ bg.png);
-    background-repeat: no-repeat;
-    background-size:cover;
+    background-color: #000;
+    font-size: 1.6rem; 
     font-family: roboto;
+    color: #2b3e51;
+  }
+  h2 {
+    font-weight: 300;
+    text-align: center;
+  }
+  p {
+    position: relative;
+  }
+ 
+
+  #loginform{
+
+    width: 16em;
+    margin-right: 30px auto;
+    text-align: center;
+    padding: 20px 0 0 0;
+    border-radius: 38px;
+    border-color: #ff9100;
+  }
+  #login-form {
+    padding: 0 60px;
+  }
+  input {
+    display: block;
+    border-radius: 38px;
+    width: 100%;
+    outline: none;
+    height: 60px;
+    line-height: 60px;
+    border-radius: 4px;
+  }
+  #email,
+  #password {
+    border: none;
+    display: block;
+    color:white; 
+    font-size: 18px;
+    position: relative;
+    display: inline-block;
+    text-align: center;
+    border-radius: 38px;
+    border: 2px solid FFCD2D;
+    background-color: transparent;
 }
-.logo{
-    size: 90px;
-}
-.login{
-    color:#DCDCDC;
-    margin-left: 10rem;
+ 
+input[type="submit"] {
+    border: none;
+    display: block;
+    background-color: #FFCD2D;
+    color: #000; 
+    font-size: 18px;
+    position: relative;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center; 
+    border-radius: 38px;
+  }
+.validation{
+    border-radius: 38px; 
     
-}
-.username{
-    font-family: roboto;
-    font-size: 24px;
-    border-radius: 25px;
-    border:2px solid yellow;
 }
