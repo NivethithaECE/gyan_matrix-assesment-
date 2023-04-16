@@ -104,5 +104,102 @@
   line-height: 31px;
   letter-spacing: 0.05em;
   color: #DCDCDC;
-
+}
+.House{
+  position: absolute;
+  left: 20.26%;
+  right: 85.63%;
+  top: 49.52%;
+  bottom: 47.15%;
+  font-family: 'Pirata One';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px; 
+  line-height: 31px;
+  letter-spacing: 0.05em;
+  color: #DCDCDC;   
+}
+.Ravenclaw{
+  position: absolute;
+  left: 34.8%;
+  right: 55.77%;
+  top: 49.96%;
+  bottom: 47.71%;
+  font-family: 'Pirata One';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 31px;
+  letter-spacing: 0.05em;
+  color: #DCDCDC;
+}
+.DOB{
+  position: absolute;
+  left: 20.26%;
+  right: 85.63%;
+  top: 56.52%;
+  bottom: 47.15%;
+  font-family: 'Pirata One';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px; 
+  line-height: 31px;
+  letter-spacing: 0.05em;
+  color: #DCDCDC; 
+}
+.dob{
+  position: absolute;
+  left: 34.8%;
+  right: 55.77%;
+  top: 56.96%;
+  bottom: 58.71%;
+  font-family: 'Pirata One';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 31px;
+  letter-spacing: 0.05em;
+  color: #DCDCDC;
+}
+.Ancestry{
+  position: absolute;
+  left: 20.26%;
+  right: 85.63%;
+  top: 62.52%;
+  bottom: 47.15%;
+  font-family: 'Pirata One';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px; 
+  line-height: 31px;
+  letter-spacing: 0.05em;
+  color: #DCDCDC; 
+}
+.Pureblood{
+  position: absolute;
+  left: 34.8%;
+  right: 55.77%;
+  top: 62.96%;
+  bottom: 58.71%;
+  font-family: 'Pirata One';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 31px;
+  letter-spacing: 0.05em;
+  color: #DCDCDC;
+}
+.Eyecolour{
+  position: absolute;
+  left: 20.26%;
+  right: 85.63%;
+  top: 68.52%;
+  bottom: 47.15%;
+  font-family: 'Pirata One';
+  font-style: normal;
+  font-weight: 350;
+  font-size: 20px; 
+  line-height: 31px;
+  letter-spacing: 0.05em;
+  color: #DCDCDC;
 }
