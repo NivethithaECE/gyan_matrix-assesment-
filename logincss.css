@@ -3,11 +3,13 @@ body {
     background-color: #000;
     font-size: 1.6rem; 
     font-family: roboto;
-    color: #2b3e51;
+    color: white;
+    background-position: cover;
   }
   h2 {
     font-weight: 300;
     text-align: center;
+    font-family: roboto;
   }
   p {
     position: relative;
@@ -25,6 +27,7 @@ body {
   }
   #login-form {
     padding: 0 60px;
+    font-family: roboto;
   }
   input {
     display: block;
@@ -47,6 +50,7 @@ body {
     border-radius: 38px;
     border: 2px solid #ff9100;
     background-color: transparent;
+    font-family: roboto;
 }
  
 input[type="submit"] {
